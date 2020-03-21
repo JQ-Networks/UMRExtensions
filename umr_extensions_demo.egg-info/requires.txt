@@ -1,3 +1,0 @@
-umr-coolq-driver
-unified-message-relay
-janus
