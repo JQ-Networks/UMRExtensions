@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4a9786c-0fb9-4f32-a42f-ffb168291672" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umr_extensions_demo.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umr_extensions_demo.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umr_extensions_demo.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umr_extensions_demo.egg-info/not-zip-safe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umr_extensions_demo.egg-info/requires.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umr_extensions_demo.egg-info/top_level.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584764905040</updated>
-      <workItem from="1584764906964" duration="3533000" />
+      <workItem from="1584764906964" duration="4118000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1584772593489</created>
@@ -87,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584772593489</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1584772858868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584772858868</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,13 +98,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="753" y="334" key="CommitChangelistDialog2" timestamp="1584772593374">
+    <state x="753" y="334" key="CommitChangelistDialog2" timestamp="1587713205692">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="753" y="334" key="CommitChangelistDialog2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1584772593374" />
-    <state x="880" y="471" key="Vcs.Push.Dialog.v2" timestamp="1584772792187">
+    <state x="753" y="334" key="CommitChangelistDialog2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1587713205692" />
+    <state x="880" y="471" key="Vcs.Push.Dialog.v2" timestamp="1587713207129">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="880" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1584772792187" />
+    <state x="880" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1587713207129" />
   </component>
 </project>
