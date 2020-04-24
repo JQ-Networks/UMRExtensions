@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b4a9786c-0fb9-4f32-a42f-ffb168291672" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umr_extensions_demo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/umr_extensions_demo/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584764905040</updated>
       <workItem from="1584764906964" duration="4118000" />
+      <workItem from="1587713173511" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1584772593489</created>
@@ -87,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584772858868</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Example for blocking single message forwarding">
+      <created>1587713205814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587713205814</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Example for blocking single message forwarding">
+      <created>1587713310320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587713310320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,16 +111,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Example for blocking single message forwarding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example for blocking single message forwarding" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="753" y="334" key="CommitChangelistDialog2" timestamp="1587713205692">
+    <state x="753" y="334" key="CommitChangelistDialog2" timestamp="1587713310220">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="753" y="334" key="CommitChangelistDialog2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1587713205692" />
-    <state x="880" y="471" key="Vcs.Push.Dialog.v2" timestamp="1587713207129">
+    <state x="753" y="334" key="CommitChangelistDialog2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1587713310220" />
+    <state x="880" y="471" key="Vcs.Push.Dialog.v2" timestamp="1587713311491">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="880" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1587713207129" />
+    <state x="880" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1587713311491" />
   </component>
 </project>
