@@ -13,7 +13,7 @@ async def message_hook_func(message: UnifiedMessage) -> bool:
     # filter keyword
     raw_text = message.message
     if raw_text.startswith('//'):
-        await quick_reply(message.chat_attrs, f'Message filtered')
+        # await quick_reply(message.chat_attrs, f'Message filtered')
         return True
 
     return False
