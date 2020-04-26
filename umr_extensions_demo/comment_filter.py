@@ -11,7 +11,7 @@ logger = UMRLogging.get_logger('Plugin.Comment')
 @register_hook()
 async def message_hook_func(message: UnifiedMessage) -> bool:
     # filter keyword
-    raw_text = message.message
+    raw_text = message.text
     if raw_text.startswith('//'):
         # await quick_reply(message.chat_attrs, f'Message filtered')
         return True

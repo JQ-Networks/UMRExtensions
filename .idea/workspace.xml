@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4a9786c-0fb9-4f32-a42f-ffb168291672" name="Default Changelist" comment="">
+    <list default="true" id="b4a9786c-0fb9-4f32-a42f-ffb168291672" name="Default Changelist" comment="Remove 'message filtered' prompt">
+      <change afterPath="$PROJECT_DIR$/umr_extensions_demo/Telegram_watermeter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umr_extensions_demo/QQ-face-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/umr_extensions_demo/QQ-face-test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umr_extensions_demo/Telegram-filter-watermeter.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/umr_extensions_demo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/umr_extensions_demo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umr_extensions_demo/comment_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/umr_extensions_demo/comment_filter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584764905040</updated>
       <workItem from="1584764906964" duration="4118000" />
-      <workItem from="1587713173511" duration="332000" />
+      <workItem from="1587713173511" duration="1216000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1584772593489</created>
@@ -103,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587713310320</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix import">
+      <created>1587713538036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587713538036</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Remove 'message filtered' prompt">
+      <created>1587713800935</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587713800935</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,16 +130,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Example for blocking single message forwarding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Example for blocking single message forwarding" />
+    <MESSAGE value="Fix import" />
+    <MESSAGE value="Remove 'message filtered' prompt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove 'message filtered' prompt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="753" y="334" key="CommitChangelistDialog2" timestamp="1587713310220">
+    <state x="753" y="334" key="CommitChangelistDialog2" timestamp="1587713800854">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="753" y="334" key="CommitChangelistDialog2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1587713310220" />
-    <state x="880" y="471" key="Vcs.Push.Dialog.v2" timestamp="1587713311491">
+    <state x="753" y="334" key="CommitChangelistDialog2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1587713800854" />
+    <state x="880" y="471" key="Vcs.Push.Dialog.v2" timestamp="1587713802436">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="880" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1587713311491" />
+    <state x="880" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417/-1680.606.1680.1027@0.23.2560.1417" timestamp="1587713802436" />
   </component>
 </project>
